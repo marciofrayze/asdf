@@ -38,15 +38,15 @@ Homebrew manages your packages and their upstream dependencies. `asdf` does not 
 
 See [Homebrew docs](https://brew.sh/) for more.
 
-### NixOS
+### Nix
 
 > Nix is a tool that takes a unique approach to package management and system configuration
 
-NixOS aims to build truly reproducible environments by managing exact versions of packages up the entire dependency tree of each tool, something `asdf` does not do. NixOS does this with its own programming language, many CLI tools and a package collection of over 60,000 packages.
+Nix aims to build truly reproducible environments by managing exact versions of packages up the entire dependency tree of each tool, something `asdf` does not do. Nix does this with its own programming language, many CLI tools and a package collection of over 60,000 packages.
 
 Again, `asdf` does not manage upstream dependencies and is not a package manager.
 
-See [NixOS docs](https://nixos.org/guides/how-nix-works.html) for more.
+See [Nix docs](https://nixos.org/guides/how-nix-works.html) for more.
 
 ## Why use asdf?
 
